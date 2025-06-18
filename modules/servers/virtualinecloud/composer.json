@@ -1,0 +1,16 @@
+{
+    "name": "virtualine-net/virtualine-whmcs",
+    "description": "Virtualine.net WHMCS Module",
+    "version": "1.0.0",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Virtualine.net",
+            "email": "info@virtualine.net"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "virtualine-net/php-client": "1.0.1"
+    }
+}

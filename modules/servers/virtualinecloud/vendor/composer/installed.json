@@ -1,0 +1,49 @@
+{
+    "packages": [
+        {
+            "name": "virtualine-net/php-client",
+            "version": "1.0.1",
+            "version_normalized": "1.0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/virtualine-net/php-client.git",
+                "reference": "c5053c42743b4dfe2ae2e76ac5928c959af54bef"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/virtualine-net/php-client/zipball/c5053c42743b4dfe2ae2e76ac5928c959af54bef",
+                "reference": "c5053c42743b4dfe2ae2e76ac5928c959af54bef",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.4"
+            },
+            "time": "2025-06-18T02:24:31+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Virtualine\\": "src/Virtualine/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Virtualine.net",
+                    "email": "info@virtualine.net"
+                }
+            ],
+            "description": "Virtualine.net API Client",
+            "support": {
+                "issues": "https://github.com/virtualine-net/php-client/issues",
+                "source": "https://github.com/virtualine-net/php-client/tree/1.0.1"
+            },
+            "install-path": "../virtualine-net/php-client"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
